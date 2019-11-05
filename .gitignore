@@ -1,0 +1,6 @@
+/target
+**/*.rs.bk
+Cargo.lock
+
+# Ignore the directory where wasm bindings will be built
+/build
